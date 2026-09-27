@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cam_192_168_1_108_80",
+    "name": "Portaria Intelbras VIP 1230",
+    "ip": "192.168.1.108",
+    "port": 80,
+    "username": "admin",
+    "password": "minhasenhacamera",
+    "rtspPort": 554,
+    "onvifEndpoint": "http://192.168.1.108:80/onvif/device_service",
+    "manufacturer": "Intelbras",
+    "status": "untested",
+    "lastSeen": "2026-09-27T15:09:17.797Z",
+    "createdAt": "2026-09-27T15:09:17.797Z"
+  }
+]

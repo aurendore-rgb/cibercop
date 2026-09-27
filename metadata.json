@@ -1,0 +1,6 @@
+{
+  "name": "CIBERCOP Gateway V1",
+  "description": "Gateway local de alta performance para câmeras IP, descoberta ONVIF WS-Discovery, streaming RTSP/HLS e integração com APK/PWA CIBERCOP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

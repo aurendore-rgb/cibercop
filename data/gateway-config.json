@@ -1,0 +1,11 @@
+{
+  "gatewayId": "CIBERCOP-VAL01",
+  "gatewayPassword": "novasenhaoperador",
+  "port": 18902,
+  "allowedOrigins": [
+    "*"
+  ],
+  "ffmpegPath": "ffmpeg",
+  "mediaEngine": "ffmpeg",
+  "configuredAt": "2026-09-27T15:15:50.606Z"
+}
